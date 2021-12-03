@@ -13,6 +13,7 @@ function emailsender(email){
             user:"ranaabobakarit@gmail.com",
             pass:"enter mail password"
         }
+        
     });
 const msg= "AOA\n rana g kya hal ha."
 let mailDetails={
